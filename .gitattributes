@@ -15,3 +15,8 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+
+#export-ignore
+*.o export-ignore
+*.exe export-ignore
+*.c export-ignore
